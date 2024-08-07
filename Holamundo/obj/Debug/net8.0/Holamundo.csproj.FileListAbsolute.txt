@@ -1,0 +1,14 @@
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\bin\Debug\net8.0\Holamundo.exe
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\bin\Debug\net8.0\Holamundo.deps.json
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\bin\Debug\net8.0\Holamundo.runtimeconfig.json
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\bin\Debug\net8.0\Holamundo.dll
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\bin\Debug\net8.0\Holamundo.pdb
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\Holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\Holamundo.AssemblyInfoInputs.cache
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\Holamundo.AssemblyInfo.cs
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\Holamundo.dll
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\refint\Holamundo.dll
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\Holamundo.pdb
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\Holamundo.genruntimeconfig.cache
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\Holamundo\obj\Debug\net8.0\ref\Holamundo.dll

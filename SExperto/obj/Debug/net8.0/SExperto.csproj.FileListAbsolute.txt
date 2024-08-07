@@ -1,0 +1,14 @@
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\SExperto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\SExperto.AssemblyInfoInputs.cache
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\SExperto.AssemblyInfo.cs
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\SExperto.csproj.CoreCompileInputs.cache
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\bin\Debug\net8.0\SExperto.exe
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\bin\Debug\net8.0\SExperto.deps.json
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\bin\Debug\net8.0\SExperto.runtimeconfig.json
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\bin\Debug\net8.0\SExperto.dll
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\bin\Debug\net8.0\SExperto.pdb
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\SExperto.dll
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\refint\SExperto.dll
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\SExperto.pdb
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\SExperto.genruntimeconfig.cache
+C:\Users\JOHN JAIRO NARVAEZ\Downloads\C#\SExperto\obj\Debug\net8.0\ref\SExperto.dll
